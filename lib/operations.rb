@@ -6,6 +6,8 @@ end
 
 
 def not_safe?(60)
+  puts "not_safe" unless
+  
 	
 end
 	
